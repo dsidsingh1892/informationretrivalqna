@@ -9,7 +9,7 @@
 650,Automatically update version number
 810,Visual Studio Setup Project - Per User Registry Settings
 930,How do I connect to a database and loop over a recordset in C#?
-1010,How to get the value of built, encoded ViewState?
+1010,How to get the value of built encoded ViewState?
 1040,How do I delete a file which is locked by another process in C#?
 1070,Process size on UNIX
 1160,Use SVN Revision to label build in CCNET
@@ -50,7 +50,7 @@
 4320,ASP.Net 2.0 Application without Business Logic Layer?
 4430,How to easily consume a web service from PHP
 4610,How can I create Prototype Methods (like JavaScript) in C#.Net?
-4630,How can I Java webstart multiple, dependent, native libraries?
+4630,How can I Java webstart multiple dependent native libraries?
 4670,DVCS Choices - What's good for Windows?
 4850,C# and Arrow Keys
 4860,Authoritative source on XML-sig
@@ -84,7 +84,7 @@
 7990,Printing from a .NET Service
 8050,Beginners Guide to LINQ
 8140,Suggestions for Adding Plugin Capability?
-8790,Ant build scripts, antcall, dependencies, etc
+8790,Ant build scripts antcall dependencies etc
 8800,Best implementation for Key Value Pair Data Structure?
 8830,Not showing Dialog when opening file in Acrobat Pro using Applescript
 8880,Get list of domains on the network
@@ -134,7 +134,7 @@
 12880,Large Data Sets
 12890,What is a good way to denormalize a mysql database?
 13000,How to setup site-wide variables in php?
-13060,What do ref, val and out mean on method parameters?
+13060,What do ref val and out mean on method parameters?
 13160,Best practice for webservices
 13170,A ThreadStateException occures when trying to restart a thread
 13200,How do I integrate my continuous integration system with my bug tracking system?
